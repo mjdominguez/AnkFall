@@ -1,8 +1,10 @@
-Welcome to the AnkFall wiki!
+Welcome to the AnkFALL wiki!
 
-For researching purposes we have collected a Dataset which contains Falls, Risk Falls and Daily-life activities from an Ankle-placed accelerometer data.
+We are a group of researchers from Robotics and Computer Technology Lab, from University of Seville (Spain).
 
-This dataset is under construction and the number os users and activities are increased continuosly.
+For researching purposes we have collected a Dataset which contains events about Falls, Falling Risks and Activities of Daily Living from an Ankle-placed device (which contains a 3-axis accelerometer).
+
+This dataset is under construction and the number of users and activities are increased continuosly.
 
 Are you interested on it?
 
