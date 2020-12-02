@@ -8,6 +8,6 @@ This dataset is under construction and the number of participants and activities
 
 Are you interested on it?
 
-Here you are the information about the activities taken into account, the participants and the data amount; but, if you want access to our dataset, you'll have to fill the EULA document and sent it to us via e-mail. The information about this process in included in the EULA document.
+Here you are the information about the activities taken into account, the participants and the data amount; but, if you want access to our dataset, you'll have to fill the EULA (End-User Lisence Agreement) document and sent it to us via e-mail. The information about this process in included in the EULA document.
 
 Regards!
